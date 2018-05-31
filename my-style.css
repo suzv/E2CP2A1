@@ -188,5 +188,6 @@ h2{
   top:415px
 }
 a {
-  color: silver
+  color: silver;
+  text-decoration:none;
 }
